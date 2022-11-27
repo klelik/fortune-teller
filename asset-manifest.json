@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortune-teller/static/css/main.e1b2a9e4.css",
+    "main.js": "/fortune-teller/static/js/main.7eccd6a4.js",
+    "static/js/787.585704b1.chunk.js": "/fortune-teller/static/js/787.585704b1.chunk.js",
+    "index.html": "/fortune-teller/index.html",
+    "main.e1b2a9e4.css.map": "/fortune-teller/static/css/main.e1b2a9e4.css.map",
+    "main.7eccd6a4.js.map": "/fortune-teller/static/js/main.7eccd6a4.js.map",
+    "787.585704b1.chunk.js.map": "/fortune-teller/static/js/787.585704b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b2a9e4.css",
+    "static/js/main.7eccd6a4.js"
+  ]
+}
